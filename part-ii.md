@@ -1,7 +1,11 @@
 # Beginning Workshop: Command Line Apps Part II 
 
 # Spawning Processes
-https://gobyexample.com/spawning-processes
+In this section, we'll use the common `grep` search utility on your (UNIX-like) OS to do the searching for you when your program is called with the previously added `-f` flag.
+
+Your task is to "shell out" the search string to the `grep` utility to do the search rather than rely on your own string-searching logic.
+
+Use https://gobyexample.com/spawning-processes as a guide for this exercise.
 
 # Exec'ing Processes
 https://gobyexample.com/execing-processes
